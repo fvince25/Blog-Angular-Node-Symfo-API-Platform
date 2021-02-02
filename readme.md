@@ -29,7 +29,7 @@ installer Nodejs, composer et symfony
   ``npm install`` puis ``npm start``
   
 
-- Ouvrir un terminal sur le dossier server / smartauth : lancer la commande 
+- Ouvrir un terminal sur le dossier server / smartapi : lancer la commande 
   ``composer install`` puis ``symfony serve``
 
 
