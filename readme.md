@@ -40,6 +40,9 @@ installer Nodejs, composer et symfony
 saisir l'URL :
 http://localhost:3000
 
+Les utilisateurs ont tous le mot de passe 1234.
+Le compte admin est vincent@vincent.fr
+
 
 
 
