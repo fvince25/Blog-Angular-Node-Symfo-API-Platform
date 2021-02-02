@@ -33,7 +33,7 @@ installer Nodejs, composer et symfony
   ``composer install`` puis ``symfony serve``
 
 
-- Charger le dump Mysql dans dump server / dum Mysql / smartapi.sql
+- Charger le dump Mysql dans dump server / dump Mysql / smartapi.sql
 
 
 - Ouvrir un navigateur Web :
